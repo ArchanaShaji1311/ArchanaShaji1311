@@ -1,4 +1,6 @@
-![👋 Hi, my name is Archana Shaji](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
+<p align="center">
+  <img src="https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif" width="300" alt="👋 Hi, my name is Archana Shaji">
+</p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=ArchanaShaji1311&label=Profile%20views&color=0e75b6&style=flat)
 
